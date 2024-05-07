@@ -1,6 +1,6 @@
-import ClickCounter from '../components/ClickCounter';
-import List from '../components/List';
-import Post from '../components/Post';
+import ClickCounter from '@/components/ClickCounter';
+import List from '@/components/List';
+import Post from '@/components/Post';
 
 // This function gets called at build time
 export async function getStaticProps() {
